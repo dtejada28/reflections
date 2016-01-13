@@ -6,3 +6,15 @@ You need to initilize it to create the .git file. to initialize the repository
 
 It is an intermidiate step to do the first commit. Gives the freedom to choose what files to commit to the repositoty
 
+- How can you use the staging area to make sure you have one commit per logical change ?
+
+You can always check the first commit with whatever is in the staging area
+
+- What are some situations when branches would be helpful in keeping your history organized? How would branches help ?
+
+To experiment with the code to add new features to it
+
+- How do the diagrams help you visualize the branch structure ?
+
+Help you understand how branches are splitted and make sure you won't loose important commits.
+
