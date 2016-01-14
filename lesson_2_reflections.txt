@@ -18,3 +18,10 @@ To experiment with the code to add new features to it
 
 Help you understand how branches are splitted and make sure you won't loose important commits.
 
+- What is the result of merging two branches together ? Why do we represent  it in the diagram the way we do ?
+
+The branch and the master will become one. to keep track of the commit we have been doing
+
+-What are the pros and cons of Git's automatic merging vs. always doing merges manually ?
+
+I think a pro is that git makes sure there is no random guess when making a decision a con is that sometimes is hard to keep track of what is causing a merge conflict
